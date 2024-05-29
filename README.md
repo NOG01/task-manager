@@ -24,3 +24,5 @@ This project is a basic task manager application built using Java. It allows use
    cd task-manager
 
 3. Open the "index.html" file in your preferred browser.
+
+![Screenshot 2024-05-29 19 03 24](https://github.com/NOG01/task-manager/assets/86392886/762b1843-db00-404c-83d2-a7ff61e4f1cf)
