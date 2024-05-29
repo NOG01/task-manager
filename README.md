@@ -1,10 +1,10 @@
 # Task Manager
 
-A simple task manager application written in Java.
+A task manager application written in Java.
 
 ## Description
 
-This project is a basic task manager application built using Java. It allows users to create, manage, and delete tasks. The project includes a simple user interface to interact with the task management functionalities.
+This project is a task manager application built using Java. It allows users to create, manage, and delete tasks. The project includes a simple user interface to interact with the task management functionalities.
 
 ## Features
 
